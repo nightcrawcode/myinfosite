@@ -1,10 +1,13 @@
+# NOTE!!!!
+this repo is out of date because i am remaking the whole site and moving hosting sites from github to neocities. I will make the new site open source on a new
+github repo. the reason why i can't use this repo anymore is because trying to sync neocities with this repo is very hard so i might as well make a new repo.
+[here](https://github.com/nightcrawcode/Drwhomust-links-website) is the link to the new repo!
+
 # Drwhomust's Website
 This is my website to leave links to stuff, have a blog, and have fun little stuff around.
 and also i want to use this to showcase my projects in one place! and i want to make it
 a 90s like website because websites from that time looked so cool. plus it even shows how
 much i like using old tech! but overall this is my website about me for people to learn more about me!
-
-this website was made in mircosoft word some how. (i am not kidding, word can save docs in html files)
 
 # Can I copy the website
 Yes please do. the reason why i want people to use my website's code is to help them learn how to code.
@@ -23,8 +26,3 @@ or in your code editor if you forked this project)
 # Where can I visit it?
 I will try to put links of it on every social media account I have.
 but you can visit it [here](https://nightcrawcode.github.io/myinfosite/) as well.
-
-and also the offical website of **Drwhomust** will always be hosted on Github.
-
-there was a point i wanted to use neocitys but i picked github because it made it easy to edit the code (because it would show up in my code
-editor) and depoly the website on github pages. plus i like having my username under a github domain. it makes it feel *special*
